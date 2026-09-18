@@ -1,2 +1,7 @@
 .quarto/
 _site/
+programs/
+.Rproj.user
+
+/.quarto/
+**/*.quarto_ipynb
