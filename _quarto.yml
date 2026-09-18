@@ -1,0 +1,16 @@
+project:
+  type: website
+  output-dir: _site
+  resources:
+    - karta-programm.html
+
+website:
+  title: "Сравнение предвыборных программ на выборах в ГД РФ 2026"
+  navbar: false
+
+format:
+  html:
+    theme: none
+    minimal: true
+    page-layout: custom
+    toc: false

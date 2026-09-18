@@ -1,0 +1,13 @@
+---
+pagetitle: "Насколько близки предвыборные программы?"
+format:
+  html:
+    page-layout: custom
+    minimal: true
+    theme: none
+include-in-header:
+  text: |
+    <meta http-equiv="refresh" content="0; url=karta-programm.html">
+---
+
+[Открыть карту](karta-programm.html)
